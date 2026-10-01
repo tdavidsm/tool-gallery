@@ -5,11 +5,11 @@ One place to find every free, browser-based classroom tool, with thumbnail previ
 **▶ Open it:** https://tdavidsm.github.io/tool-gallery/
 
 ## What's inside
-A responsive gallery of 14 tools, filterable by subject:
+A responsive gallery of 15 tools, filterable by subject:
 
 - **Motion & Kinematics** — Rocket Kinematics, Speed Lab, Better Video Analysis, Projectile Missions, Match the Motion
 - **Atomic Structure** — Particle Scattering-inator, Rutherford Scatter
-- **Chemistry Lab** — Bunsen Burner Simulator, Element Lab, Lab Equipment Match
+- **Chemistry Lab** — Bunsen Burner Simulator, Element Lab, Lab Equipment Match, Chemical Bonding Lab
 - **Classroom & Language** — Group-i-fier, Recitation Coach, Scripture Quest
 - **For Teachers** — Classroom Tool Workshop
 
