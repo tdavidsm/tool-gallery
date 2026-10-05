@@ -7,7 +7,7 @@ One place to find every free, browser-based classroom tool, with thumbnail previ
 ## What's inside
 A responsive gallery of 15 tools, filterable by subject:
 
-- **Motion & Kinematics** — Rocket Kinematics, Speed Lab, Better Video Analysis, Projectile Missions, Match the Motion
+- **Motion & Kinematics** — Rocket Kinematics, Speed Lab, Better Video Analysis, Projectile Missions, Match the Motion, Half-Projectile Setup
 - **Atomic Structure** — Particle Scattering-inator, Rutherford Scatter
 - **Chemistry Lab** — Bunsen Burner Simulator, Element Lab, Lab Equipment Match, Chemical Bonding Lab
 - **Classroom & Language** — Group-i-fier, Recitation Coach, Scripture Quest
