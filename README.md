@@ -5,7 +5,7 @@ One place to find every free, browser-based classroom tool, with thumbnail previ
 **▶ Open it:** https://tdavidsm.github.io/tool-gallery/
 
 ## What's inside
-A responsive gallery of 15 tools, filterable by subject:
+A responsive gallery of 16 tools, filterable by subject:
 
 - **Motion & Kinematics** — Rocket Kinematics, Speed Lab, Better Video Analysis, Projectile Missions, Match the Motion, Half-Projectile Setup
 - **Atomic Structure** — Particle Scattering-inator, Rutherford Scatter
